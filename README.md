@@ -1,2 +1,3 @@
 # kanishk-demo
-My first repository on github
+My first repository on Github
+Author - Kanishk Sharma
